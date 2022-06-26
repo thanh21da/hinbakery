@@ -217,7 +217,7 @@ section{
     background-position: center;
 }*/
  #indexhome{
-    background:url(../Cake/cake3.jpg) no-repeat;
+    background:url(../Cake/Cake3.jpg) no-repeat;
     min-height: 100vh;
     display: flex;
     align-items: center;
